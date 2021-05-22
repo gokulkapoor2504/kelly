@@ -73,8 +73,11 @@ NAV{
     background-color:rgb(182, 182, 182);
     padding-top:10px;
     border-top: solid white 3px;
+    margin-top:5px;
+    padding-top:6px;
+    padding-bottom:14px;
     border-bottom: solid white 3px;
-    border
+    
 }
 .back{
     background-image: url(img.jpg);

@@ -110,15 +110,18 @@ SECTION{
     margin-left:5px;
 }
 .animation{
-    margin-top:900px;
-    
+    margin-top:890px;
+    text-align: center;
+    margin-bottom:
+  
 }
 }
 .animation{
-        width:70%;
+        width:90%;
         height:400px;
+        margin
         background-image: url(./animation/maxresdefault.jpg);
-        transform:translate( -50% ,1000px);
+        transform:translate( -50% ,990px);
         background-size: 100% 100%;
         top:50%;
         left:50%;

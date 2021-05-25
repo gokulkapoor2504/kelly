@@ -94,13 +94,14 @@ SECTION{
    overflow:hidden;
    height:500px;
    width:1000px;
-   margin-left:160px;
+   margin:auto;
+   margin-top:40px;
 }
 .animation figure{
     position:relative;
     width:500%;
    margin:0;
-   margin-top:40px;
+   
     left:0;
     animation: slider 20s infinite;
     

@@ -170,10 +170,11 @@ SECTION{
     
 }
 .animation{
-    width:500px;
-    
+    width:480px;
+    margin-left:15px;
     margin-top:50px;
-    margin-right:10px;
+    margin-right:5px;
+    
 }
 
 }

@@ -92,6 +92,9 @@ SECTION{
 }
 .animation{
    overflow:hidden;
+   height:500px;
+   width:1000px;
+   margin-left:160px;
 }
 .animation figure{
     position:relative;
@@ -171,10 +174,9 @@ SECTION{
 }
 .animation{
     width:480px;
-    margin-left:15px;
+    margin-left:22px;
     margin-top:50px;
     margin-right:5px;
-    
 }
 
 }
